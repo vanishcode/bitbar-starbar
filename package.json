@@ -1,0 +1,23 @@
+{
+    "name": "starbar",
+    "version": "0.0.1",
+    "description": "text",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/vanishcode/starbar"
+    },
+    "author": "Wjh",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/vanishcode/starbar/issues"
+    },
+    "homepage": "https://github.com/vanishcode/starbar",
+    "dependencies": {
+        "dotenv": "^2.0.0",
+        "underscore": "*"
+    }
+}
